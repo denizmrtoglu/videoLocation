@@ -1,3 +1,7 @@
+# About
+This project was developed using google map api and youtube data api. 
+It lists the most recent youtube videos according to the location you choose from the map.
+
 # environment-setup
 > brew install node
  
